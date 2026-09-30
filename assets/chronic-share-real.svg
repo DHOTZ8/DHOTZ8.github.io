@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="367.2pt" viewBox="0 0 720 367.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Daniela Hotz portfolio</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 367.2 
+L 720 367.2 
+L 720 0 
+L 0 0 
+z
+" style="fill: #edf2ee"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 216 312.12 
+L 698.4 312.12 
+L 698.4 84.456 
+L 216 84.456 
+z
+" style="fill: #edf2ee"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #50616a" x="216" y="328.718437" transform="rotate(-0 216 328.718437)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #50616a" x="336.6" y="328.718437" transform="rotate(-0 336.6 328.718437)">25</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #50616a" x="457.2" y="328.718437" transform="rotate(-0 457.2 328.718437)">50</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #50616a" x="577.8" y="328.718437" transform="rotate(-0 577.8 328.718437)">75</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #50616a" x="698.4" y="328.718437" transform="rotate(-0 698.4 328.718437)">100</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #50616a" x="457.2" y="342.396562" transform="rotate(-0 457.2 342.396562)">Share (%)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6"/>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #50616a" x="207" y="129.721039" transform="rotate(-0 207 129.721039)">Membership share</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7"/>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #50616a" x="207" y="274.453398" transform="rotate(-0 207 274.453398)">Gross healthcare cost share</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 216 94.804364 
+L 380.016 94.804364 
+L 380.016 157.039278 
+L 216 157.039278 
+z
+" clip-path="url(#p617ee8ae7c)" style="fill: #174e5e"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 216 239.536722 
+L 534.384 239.536722 
+L 534.384 301.771636 
+L 216 301.771636 
+z
+" clip-path="url(#p617ee8ae7c)" style="fill: #174e5e"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 380.016 94.804364 
+L 698.4 94.804364 
+L 698.4 157.039278 
+L 380.016 157.039278 
+z
+" clip-path="url(#p617ee8ae7c)" style="fill: #bbd3ca"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 534.384 239.536722 
+L 698.4 239.536722 
+L 698.4 301.771636 
+L 534.384 301.771636 
+z
+" clip-path="url(#p617ee8ae7c)" style="fill: #bbd3ca"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="298.008" y="128.681196" transform="rotate(-0 298.008 128.681196)">34%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #174e5e" x="539.208" y="128.681196" transform="rotate(-0 539.208 128.681196)">66%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="375.192" y="273.413554" transform="rotate(-0 375.192 273.413554)">66%</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #174e5e" x="616.392" y="273.413554" transform="rotate(-0 616.392 273.413554)">34%</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_7">
+     <path d="M 342.397266 60.691714 
+L 360.397266 60.691714 
+L 360.397266 54.391714 
+L 342.397266 54.391714 
+z
+" style="fill: #174e5e"/>
+    </g>
+    <g id="text_13">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #102432" x="367.597266" y="60.691714" transform="rotate(-0 367.597266 60.691714)">Chronic population</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 470.495391 60.691714 
+L 488.495391 60.691714 
+L 488.495391 54.391714 
+L 470.495391 54.391714 
+z
+" style="fill: #bbd3ca"/>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #102432" x="495.695391" y="60.691714" transform="rotate(-0 495.695391 60.691714)">Other population</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_15">
+   <text style="font-weight: 500; font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #102432" x="39.6" y="18.36" transform="rotate(-0 39.6 18.36)">Chronic population and expenditure concentration</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #50616a" x="39.6" y="37.8216" transform="rotate(-0 39.6 37.8216)">Health insurer A | 2024-May 2025 | Percentages as reported in the study</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #50616a" x="39.6" y="358.02" transform="rotate(-0 39.6 358.02)">Source: internal population study, p. 27. Different observation window from the mapping chart.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p617ee8ae7c">
+   <rect x="216" y="84.456" width="482.4" height="227.664"/>
+  </clipPath>
+ </defs>
+</svg>
